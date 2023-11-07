@@ -24,4 +24,4 @@ public class PGenerator {
 	             int length= 8; 
                                  System.out.println(Password(length)); 
                           }  
-s} 
+} 
